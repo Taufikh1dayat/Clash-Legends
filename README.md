@@ -28,3 +28,5 @@ Scroll reveal animations
 Counter animasi pada statistik
 Chess board interaktif
 Hover effects di semua elemen
+
+Kunjungi : https://clash-legends.vercel.app/ untuk melihat hasil
